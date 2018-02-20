@@ -1,0 +1,53 @@
+body {
+    background-image: url("file:/C:/Users/SONY/Desktop/1.gif");
+}
+
+h1 {
+    color: maroon;
+    text-align: center;
+    font-size: 240%;
+    margin-left: 40px;
+    font-family: "Roboto", sans-serif
+} 
+p{
+    color:darkslategrey;
+    font-size: 170%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div#History{
+    
+    width: 350px;
+    height: 135%;
+    background-color: lightsteelblue;
+    float: left;
+    border-collapse: collapse;
+    border: 15px groove rgb(98, 156, 231);
+    border-block-start-color: royalblue;
+    border-block-end-color: royalblue;  
+    padding: 25px;
+    margin: 25px;
+}
+div#studies{
+
+    width: 50%;
+    float: left;
+    background-color: lightsteelblue;
+    border-collapse: collapse;
+    border: 15px groove rgb(98, 156, 231);
+    border-block-start-color: royalblue;
+    border-block-end-color: royalblue;
+    padding: 25px;
+    margin: 25px;
+}
+div#education{
+
+    width: 50%;
+    float: left;
+    background-color: lightsteelblue;
+    border-collapse: collapse;
+    border: 15px groove rgb(98, 156, 231);
+    border-block-start-color: royalblue;
+    border-block-end-color: royalblue;
+    padding: 25px;
+    margin: 25px;
+}
